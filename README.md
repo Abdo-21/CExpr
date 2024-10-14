@@ -106,10 +106,16 @@ private fun App(modifier: Modifier = Modifier) {
 ## Components
 
 Fraction: Displays a fraction with customizable numerator and denominator.
+
 Plus: Represents addition between two expressions.
+
 Minus: Represents subtraction between two expressions.
+
 Times: Represents multiplication between two expressions.
+
 Parenthesis: Wraps content in parentheses for grouped expressions.
+
 SquareRoot: Renders the square root of an expression.
+
 Power: Displays exponentiation (e.g., base raised to exponent).
 
